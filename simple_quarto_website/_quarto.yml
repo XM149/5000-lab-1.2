@@ -1,0 +1,23 @@
+project:
+  type: website
+  resources: 
+    - "*.mp4"
+website:
+  title: "my_website"
+  favicon: "images/me.png"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.ipynb
+        text: About me
+  
+bibliography: reference.bib
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
+

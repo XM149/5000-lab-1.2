@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "slides/slides.html#slide-1-introduction",
+    "href": "slides/slides.html#slide-1-introduction",
+    "title": "DSAN5000Lab02",
+    "section": "Slide 1: Introduction",
+    "text": "Slide 1: Introduction\nWelcome to my Slides\n(Srinivasan et al. 2015) - Vivamus lectus euismod ut aliquet dapibus porttitor vulputate consectetur. - Anon curae etiam maecenas ligula elementum eget varius enim."
+  },
+  {
+    "objectID": "slides/slides.html#slide-2-overview",
+    "href": "slides/slides.html#slide-2-overview",
+    "title": "DSAN5000Lab02",
+    "section": "Slide 2: Overview",
+    "text": "Slide 2: Overview\nQuisque id urna at finibus augue mi elementum lacinia.Luctus viverra mollis suscipit habitant lobortis mollis fames ornare.  —"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3-details",
+    "href": "slides/slides.html#slide-3-details",
+    "title": "DSAN5000Lab02",
+    "section": "Slide 3: Details",
+    "text": "Slide 3: Details\nCommodo aliquam malesuada commodo, cras hac eleifend?"
+  },
+  {
+    "objectID": "slides/slides.html#slide-4-conclusion",
+    "href": "slides/slides.html#slide-4-conclusion",
+    "title": "DSAN5000Lab02",
+    "section": "Slide 4: Conclusion",
+    "text": "Slide 4: Conclusion\nLuctus viverra mollis suscipit habitant lobortis mollis fames ornare. Molestie nam condimentum sem platea sit penatibus.Cursus urna interdum mauris pharetra tincidunt lobortis odio.\n\n\n\n\n\n\n\n\n\nSrinivasan, Balaji, Aditya Reddy Kolli, Mandy Brigitte Esch, Hasan Erbil Abaci, Michael L Shuler, and James J Hickman. 2015. “TEER Measurement Techniques for in Vitro Barrier Model Systems.” Journal of Laboratory Automation 20 (2): 107–26."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#subsection-1-my-intrest",
+    "href": "about.html#subsection-1-my-intrest",
+    "title": "About",
+    "section": "subsection 1 My Intrest",
+    "text": "subsection 1 My Intrest\nVel mi tempus sollicitudin habitasse sed. Amet pulvinar curae tempus pretium ad. Mollis quisque curabitur id orci ac. Convallis porta platea torquent purus vel maximus proin. Fusce sociosqu rutrum mi in feugiat. Aposuere augue urna nisl aenean. Vulputate montes fames in nostra ad. Litora malesuada turpis vestibulum lacus taciti sociosqu varius mus nisi."
+  },
+  {
+    "objectID": "about.html#subsection-2-my-background",
+    "href": "about.html#subsection-2-my-background",
+    "title": "About",
+    "section": "subsection 2 My background",
+    "text": "subsection 2 My background\nDiam justo massa pretium potenti euismod himenaeos sociosqu cubilia ut. Posuere phasellus vitae curae ullamcorper non lacinia. Est dignissim mi at facilisis tincidunt faucibus rhoncus placerat. At adipiscing vitae ligula; conubia mattis feugiat suspendisse. Sollicitudin sed facilisis suspendisse nibh luctus. Imperdiet porttitor mollis vivamus, scelerisque convallis senectus convallis nam cursus. Aliquam adipiscing donec enim auctor fringilla libero. Dictum mus rutrum class, ultrices mauris ridiculus arcu justo.\n\nsubsection 2.1 Study\nElementum class nibh natoque; lobortis ante vestibulum. Ridiculus in sit sem congue, maecenas venenatis tempus. Libero nisl vestibulum interdum venenatis ac pellentesque rutrum justo neque. Euismod volutpat suspendisse quam vitae gravida lacinia elit habitasse. Turpis hendrerit ipsum rhoncus nascetur fermentum. Ultrices sagittis magnis urna; porttitor ultricies consectetur. About this site\n\nimport matplotlib.pyplot as plt\nlabels = ['Category A', 'Category B', 'Category C', 'Category D']\nsizes = [15, 30, 45, 10]\ncolors = ['gold', 'yellowgreen', 'lightcoral', 'lightskyblue']\nexplode = (0.1, 0, 0, 0) \nplt.figure(figsize=(6, 6))\nplt.pie(sizes, explode=explode, labels=labels, colors=colors, autopct='%1.1f%%', shadow=True, startangle=140)\nplt.axis('equal')\nplt.title(\"Pie\")\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Xiaoya_website",
+    "section": "",
+    "text": "Lorem ipsum odor amet, consectetuer adipiscing elit. Luctus donec elit purus luctus natoque dui. Sollicitudin efficitur gravida tempor; integer vulputate turpis. Platea lacinia aliquet mauris mollis ipsum malesuada taciti. Suspendisse est vel sem ex auctor orci cras duis. Litora metus per iaculis, amet a vehicula morbi finibus.\n\nThis is a simple citation:(Oleaga et al. 2016)\n\n\nVivamus lectus euismod ut aliquet dapibus1 porttitor vulputate consectetur. Anon curae etiam maecenas ligula elementum eget varius enim. Quisque id urna at finibus augue mi elementum lacinia.2 Luctus viverra mollis suscipit habitant lobortis mollis fames ornare. Molestie nam condimentum sem platea sit penatibus.3 Cursus urna interdum mauris pharetra tincidunt lobortis odio. Integer tempus enim purus himenaeos viverra pellentesque blandit blandit. Ipsum ridiculus cras luctus justo inceptos iaculis. Urna at porttitor nisl natoque primis donec libero. Commodo aliquam malesuada commodo, cras hac eleifend?\n\n\nUrna lorem lacus faucibus habitant at taciti convallis morbi semper. Urna aptent id ex justo nisi. Nostra fusce elit lobortis ligula vitae natoque. Montes nisl faucibus curae mattis vivamus hac congue potenti. Sollicitudin magna turpis natoque orci tortor facilisis. Aenean aliquet felis lacus commodo nisi viverra magnis nibh.\n\n\n\nSee the flowers, They are beautiful!\n\n\nTincidunt justo natoque orci faucibus vitae egestas urna nunc. Sollicitudin donec habitant dolor eleifend proin imperdiet in. Etiam elementum adipiscing porttitor odio pharetra varius mattis. Nec turpis rutrum ipsum aliquet curae eu nam aliquet aliquam. Quis massa fames placerat augue per magna sollicitudin elementum litora. Vehicula hendrerit ac etiam maecenas penatibus nec consectetur at rutrum? Lacus pellentesque senectus maecenas id; nisi potenti nullam. Placerat per per malesuada proin felis varius scelerisque consectetur.\n\n\n\nDo you want to climb mountain with me?\n\n\nQuis curae ante a hac ligula. Sollicitudin hendrerit fringilla pretium leo libero scelerisque. Adipiscing curabitur consectetur posuere vehicula semper senectus habitasse fringilla. Aenean penatibus pharetra taciti fermentum class quisque nunc aenean. Pulvinar egestas turpis sodales vehicula rutrum. Sem gravida cras non sem velit malesuada. Per curae cras maecenas tempus, auctor consequat conubia platea.\n\n\n\n\n\n\n\n\ngantt\n    title Project Plan\n    dateFormat  YYYY-MM-DD\n    section A\n    The lab          :a1, 2024-09-01, 30d\n    is          :after a1  , 20d\n    section B\n    Too          :2024-10-01  , 12d\n    Difficult          : 24d\n\n\n\n\n\n\n\n\n\n\n\n\nFirst: Quis curae ante a hac ligula. Sollicitudin hendrerit fringilla pretium leo libero scelerisque. Adipiscing curabitur consectetur posuere vehicula semper senectus habitasse fringilla. Aenean penatibus pharetra taciti fermentum class quisque nunc aenean. Pulvinar egestas turpis sodales vehicula rutrum. Sem gravida cras non sem velit malesuada. Per curae cras maecenas tempus, auctor consequat conubia platea.\n\n\nSecond: Tincidunt justo natoque orci faucibus vitae egestas urna nunc. Sollicitudin donec habitant dolor eleifend proin imperdiet in. Etiam elementum adipiscing porttitor odio pharetra varius mattis. Nec turpis rutrum ipsum aliquet curae eu nam aliquet aliquam. Quis massa fames placerat augue per magna sollicitudin elementum litora. Vehicula hendrerit ac etiam maecenas penatibus nec consectetur at rutrum? Lacus pellentesque senectus maecenas id; nisi potenti nullam. Placerat per per malesuada proin felis varius scelerisque consectetur.\n\n\n\n\n\nColumnA\nLorem ipsum dolor sit amet, \nconsectetur adipiscing elit. \nInteger nec odio. Praesent libero.\n Sed cursus ante dapibus diam.\n\n\nColumnB\nLorem ipsum dolor sit amet,\n consectetur adipiscing elit.\n  Integer nec odio. Praesent libero.\n   Sed cursus ante dapibus diam."
+  },
+  {
+    "objectID": "index.html#section-1-the-use-of-footnotes",
+    "href": "index.html#section-1-the-use-of-footnotes",
+    "title": "Xiaoya_website",
+    "section": "",
+    "text": "Vivamus lectus euismod ut aliquet dapibus1 porttitor vulputate consectetur. Anon curae etiam maecenas ligula elementum eget varius enim. Quisque id urna at finibus augue mi elementum lacinia.2 Luctus viverra mollis suscipit habitant lobortis mollis fames ornare. Molestie nam condimentum sem platea sit penatibus.3 Cursus urna interdum mauris pharetra tincidunt lobortis odio. Integer tempus enim purus himenaeos viverra pellentesque blandit blandit. Ipsum ridiculus cras luctus justo inceptos iaculis. Urna at porttitor nisl natoque primis donec libero. Commodo aliquam malesuada commodo, cras hac eleifend?\n\n\nUrna lorem lacus faucibus habitant at taciti convallis morbi semper. Urna aptent id ex justo nisi. Nostra fusce elit lobortis ligula vitae natoque. Montes nisl faucibus curae mattis vivamus hac congue potenti. Sollicitudin magna turpis natoque orci tortor facilisis. Aenean aliquet felis lacus commodo nisi viverra magnis nibh.\n\n\n\nSee the flowers, They are beautiful!\n\n\nTincidunt justo natoque orci faucibus vitae egestas urna nunc. Sollicitudin donec habitant dolor eleifend proin imperdiet in. Etiam elementum adipiscing porttitor odio pharetra varius mattis. Nec turpis rutrum ipsum aliquet curae eu nam aliquet aliquam. Quis massa fames placerat augue per magna sollicitudin elementum litora. Vehicula hendrerit ac etiam maecenas penatibus nec consectetur at rutrum? Lacus pellentesque senectus maecenas id; nisi potenti nullam. Placerat per per malesuada proin felis varius scelerisque consectetur.\n\n\n\nDo you want to climb mountain with me?\n\n\nQuis curae ante a hac ligula. Sollicitudin hendrerit fringilla pretium leo libero scelerisque. Adipiscing curabitur consectetur posuere vehicula semper senectus habitasse fringilla. Aenean penatibus pharetra taciti fermentum class quisque nunc aenean. Pulvinar egestas turpis sodales vehicula rutrum. Sem gravida cras non sem velit malesuada. Per curae cras maecenas tempus, auctor consequat conubia platea.\n\n\n\n\n\n\n\n\ngantt\n    title Project Plan\n    dateFormat  YYYY-MM-DD\n    section A\n    The lab          :a1, 2024-09-01, 30d\n    is          :after a1  , 20d\n    section B\n    Too          :2024-10-01  , 12d\n    Difficult          : 24d\n\n\n\n\n\n\n\n\n\n\n\n\nFirst: Quis curae ante a hac ligula. Sollicitudin hendrerit fringilla pretium leo libero scelerisque. Adipiscing curabitur consectetur posuere vehicula semper senectus habitasse fringilla. Aenean penatibus pharetra taciti fermentum class quisque nunc aenean. Pulvinar egestas turpis sodales vehicula rutrum. Sem gravida cras non sem velit malesuada. Per curae cras maecenas tempus, auctor consequat conubia platea.\n\n\nSecond: Tincidunt justo natoque orci faucibus vitae egestas urna nunc. Sollicitudin donec habitant dolor eleifend proin imperdiet in. Etiam elementum adipiscing porttitor odio pharetra varius mattis. Nec turpis rutrum ipsum aliquet curae eu nam aliquet aliquam. Quis massa fames placerat augue per magna sollicitudin elementum litora. Vehicula hendrerit ac etiam maecenas penatibus nec consectetur at rutrum? Lacus pellentesque senectus maecenas id; nisi potenti nullam. Placerat per per malesuada proin felis varius scelerisque consectetur.\n\n\n\n\n\nColumnA\nLorem ipsum dolor sit amet, \nconsectetur adipiscing elit. \nInteger nec odio. Praesent libero.\n Sed cursus ante dapibus diam.\n\n\nColumnB\nLorem ipsum dolor sit amet,\n consectetur adipiscing elit.\n  Integer nec odio. Praesent libero.\n   Sed cursus ante dapibus diam."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Xiaoya_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is a foot note.↩︎\nThe second one.↩︎\nThe last one.↩︎"
+  }
+]

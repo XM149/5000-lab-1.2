@@ -1,0 +1,81 @@
+---
+title: "Xiaoya_website"
+toc: true
+---
+
+# Introduction
+
+>Lorem ipsum odor amet, consectetuer adipiscing elit. Luctus donec elit purus luctus natoque dui. Sollicitudin efficitur gravida tempor; integer vulputate turpis. Platea lacinia aliquet mauris mollis ipsum malesuada taciti. Suspendisse est vel sem ex auctor orci cras duis. Litora metus per iaculis, amet a vehicula morbi finibus.
+
+This is a simple citation:[@oleaga2016multi]
+
+
+## Section 1: The use of Footnotes
+
+Vivamus lectus euismod ut aliquet dapibus[^1] porttitor vulputate consectetur. Anon curae etiam maecenas ligula elementum eget varius enim. Quisque id urna at finibus augue mi elementum lacinia.[^2] Luctus viverra mollis suscipit habitant lobortis mollis fames ornare. Molestie nam condimentum sem platea sit penatibus.[^3] Cursus urna interdum mauris pharetra tincidunt lobortis odio. Integer tempus enim purus himenaeos viverra pellentesque blandit blandit. Ipsum ridiculus cras luctus justo inceptos iaculis. Urna at porttitor nisl natoque primis donec libero. Commodo aliquam malesuada commodo, cras hac eleifend?
+
+### Subsection 1.1: Enjoy pictures
+Urna lorem lacus faucibus habitant at taciti convallis morbi semper. Urna aptent id ex justo nisi. Nostra fusce elit lobortis ligula vitae natoque. Montes nisl faucibus curae mattis vivamus hac congue potenti. Sollicitudin magna turpis natoque orci tortor facilisis. Aenean aliquet felis lacus commodo nisi viverra magnis nibh.
+
+![See the flowers, They are beautiful!](images\flower.png "flowers")
+
+Tincidunt justo natoque orci faucibus vitae egestas urna nunc. Sollicitudin donec habitant dolor eleifend proin imperdiet in. Etiam elementum adipiscing porttitor odio pharetra varius mattis. Nec turpis rutrum ipsum aliquet curae eu nam aliquet aliquam. Quis massa fames placerat augue per magna sollicitudin elementum litora. Vehicula hendrerit ac etiam maecenas penatibus nec consectetur at rutrum? Lacus pellentesque senectus maecenas id; nisi potenti nullam. Placerat per per malesuada proin felis varius scelerisque consectetur.
+
+![Do you want to climb mountain with me?](images\mountain.png "mountains")
+
+Quis curae ante a hac ligula. Sollicitudin hendrerit fringilla pretium leo libero scelerisque. Adipiscing curabitur consectetur posuere vehicula semper senectus habitasse fringilla. Aenean penatibus pharetra taciti fermentum class quisque nunc aenean. Pulvinar egestas turpis sodales vehicula rutrum. Sem gravida cras non sem velit malesuada. Per curae cras maecenas tempus, auctor consequat conubia platea.
+
+### Subsection 1.2: Mermaid diagram
+```{mermaid}
+gantt
+    title Project Plan
+    dateFormat  YYYY-MM-DD
+    section A
+    The lab          :a1, 2024-09-01, 30d
+    is          :after a1  , 20d
+    section B
+    Too          :2024-10-01  , 12d
+    Difficult          : 24d
+```
+
+### Subsection 1.3: Markdown table and two columns
+<table>
+  <tr>
+    <td style="width: 50%;">
+      **First**: 
+      Quis curae ante a hac ligula. Sollicitudin hendrerit fringilla pretium leo libero scelerisque. Adipiscing curabitur consectetur posuere vehicula semper senectus habitasse fringilla. Aenean penatibus pharetra taciti fermentum class quisque nunc aenean. Pulvinar egestas turpis sodales vehicula rutrum. Sem gravida cras non sem velit malesuada. Per curae cras maecenas tempus, auctor consequat conubia platea.
+    </td>
+    <td style="width: 50%;">
+      **Second**: 
+      Tincidunt justo natoque orci faucibus vitae egestas urna nunc. Sollicitudin donec habitant dolor eleifend proin imperdiet in. Etiam elementum adipiscing porttitor odio pharetra varius mattis. Nec turpis rutrum ipsum aliquet curae eu nam aliquet aliquam. Quis massa fames placerat augue per magna sollicitudin elementum litora. Vehicula hendrerit ac etiam maecenas penatibus nec consectetur at rutrum? Lacus pellentesque senectus maecenas id; nisi potenti nullam. Placerat per per malesuada proin felis varius scelerisque consectetur.
+    </td>
+  </tr>
+</table>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 10px;">
+    ColumnA
+    Lorem ipsum dolor sit amet, 
+    consectetur adipiscing elit. 
+    Integer nec odio. Praesent libero.
+     Sed cursus ante dapibus diam.
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    ColumnB
+    Lorem ipsum dolor sit amet,
+     consectetur adipiscing elit.
+      Integer nec odio. Praesent libero.
+       Sed cursus ante dapibus diam.
+  </div>
+</div>
+
+### Subsection 1.4: embedded video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i810CxN5Q6Q?si=TS6PF4osSWhbj3_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Section 2: Reference
+
+[^1]:This is a foot note.
+[^2]:The second one.
+[^3]:The last one.
